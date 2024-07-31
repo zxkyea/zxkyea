@@ -1,6 +1,7 @@
-###hi ım zxkyea 
+      ____hi ım zxkyea____
   
 
+![Alternatif Metin](resim_url)
 
 <!---
 zxkyea/zxkyea is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
