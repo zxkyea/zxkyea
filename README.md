@@ -1,3 +1,6 @@
+```python
+def hello_world():
+    print("Merhaba Dünya!")
 ___hi ım zxkyea___
   
 
