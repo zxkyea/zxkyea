@@ -1,7 +1,6 @@
-```python
-def hello_world():
-    print("Merhaba Dünya!")
-___hi ım zxkyea___
+# Hi👋🏻😊
+* ım zxkyea pleased to meet 😊*
+
   
 
 
