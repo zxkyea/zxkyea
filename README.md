@@ -1,11 +1,11 @@
-<h1 align="center">Merhaba 👋, ben zxkyea</h1>
-<h3 align="center">Ben Türkiye'den Geliştiriciyim</h3>
+<h1 align="center">Hi 👋, ım zxkyea</h1>
+<h3 align="center">Im Devoloper from turkey</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zxkyea&label=Profile%20views&color=0e75b6&style=flat" alt="zxkyea" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zxkyea" alt="zxkyea" /></a> </p>
 
-- 📫 Bana nasıl ulaşabilirsiniz **zxkyea@gmail.com**
+<!--- - 📫 How can you contact me? **zxkyea@gmail.com** --->
 
 <h3 align="left">Bağlantı kurun ben:</h3>
 <p align="left">
