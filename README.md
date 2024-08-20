@@ -6,7 +6,9 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zxkyea" alt="zxkyea" /></a> </p>
 
 
-<!--- - 📫 How can you contact me? **zxkyea@gmail.com** --->
+- 🔭 I am currently working **on learning C++.**
+
+ - 📫 How can you contact me? **zxkyea@gmail.com** 
 
 <h3 align="left">connections</h3>
 <p align="left">
