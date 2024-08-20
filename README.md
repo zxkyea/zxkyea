@@ -9,7 +9,7 @@
 
 <h3 align="left">Bağlantı kurun ben:</h3>
 <p align="left">
-<a href="https://www.youtube.com/c/@zxkyea" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@zxkyea" height="30" width="40" /></a>
+<a href="https://https://www.youtube.com/@Zxkyea" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@zxkyea" height="30" width="40" /></a>
 <a href="https://discord.gg/Zxkyea" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Zxkyea" height="30" width="40" /></a>
 </p>
 
