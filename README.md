@@ -1,7 +1,8 @@
 # Hi👋🏻😊
 * ım zxkyea pleased to meet 😊*
 
-  
+  ![Visitor count](https://img.shields.io/badge/zxkyea?style=social)
+
 
 
 
