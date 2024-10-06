@@ -8,7 +8,7 @@
 
 - 🔭 I am currently working **on learning C++.**
 
-<--- - 📫 How can you contact me? **zxkyea@gmail.com** --->
+<!--- - 📫 How can you contact me? **zxkyea@gmail.com** --->
 
 <h3 align="left">connections</h3>
 <p align="left">
