@@ -28,15 +28,6 @@
 </div>
 
 
-<!---## 📜 My certificates--->
-
-<!---| Certificate name          | corporation            |   link   | 
-|-------------------------|--------------------|-------------|
-| **Git ve GitHub Eğitimi** | Techcareer.net      | [Certificate link](Youcancontactmetosee) |
-| **Web Programlama (HTML5, CSS3, Bootstrap5, Javascript)** | Techcareer.net  | [Certificate link](Youcancontactmetosee) |
-| **VirtualBox ile Sanal Makine Oluşturmak**   | Techcareer.net      | [Certificate link](Youcancontactmetosee) |
-| **Windows 10 İşletim Sistemi**   | BTK akademi      | [Certificate link](Youcancontactmetosee) |
-| **HTML5 ile Web Geliştirme**   | BTK akademi      | [Certificate link](Youcancontactmetosee) |--->
 
 
 
