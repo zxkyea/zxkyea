@@ -28,7 +28,7 @@
 </div>
 
 
-## 📜 My certificates
+<!---## 📜 My certificates--->
 
 <!---| Certificate name          | corporation            |   link   | 
 |-------------------------|--------------------|-------------|
