@@ -39,48 +39,7 @@
 | **HTML5 ile Web Geliştirme**   | BTK akademi      | [Certificate link](Youcancontactmetosee) |
 
 
-<!-- first animation -->
-<style>
-@keyframes bounce {
-    0%, 100% {
-        transform: translateY(0);
-    }
-    50% {
-        transform: translateY(-20px);
-    }
-}
-</style>
 
-<!-- second animation -->
-<style>
-@keyframes fadeIn {
-    0% { opacity: 0; }
-    50% { opacity: 1; }
-    100% { opacity: 0; }
-}
-</style>
-
-<!-- third animation -->
-<style>
-@keyframes slideInFromLeft {
-    0% {
-        transform: translateX(-100%);
-        opacity: 0;
-    }
-    100% {
-        transform: translateX(0);
-        opacity: 1;
-    }
-}
-
-.animated-text {
-    font-family: Arial, sans-serif;
-    font-size: 24px;
-    font-weight: bold;
-    color: #4CAF50;
-    animation: slideInFromLeft 1.5s ease-out;
-}
-</style>
 
 
 
