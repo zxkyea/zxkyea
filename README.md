@@ -29,6 +29,13 @@
    <div style="font-size:24px; color:#e5e5e5">- 🔭 the languages ​​I know are at a basic level, I am trying to improve them!</div>
 </div>
 
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=D71708&background=FFFFFF00&width=435&lines=+talk+is+free+show+me+the+code;hello+its+zxkyea;can+I+take+part+in+your+project%3F" alt="Typing SVG">
+  </a>
+</div>
+
+
 
 
 
